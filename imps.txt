@@ -1,0 +1,18 @@
+
+sample amazon product url:-->
+https://amzn.eu/d/5JF2IzF
+https://www.amazon.in/gp/product/B08GGF4L1K/ref=ewc_pr_img_2?smid=A14CZOWI0VEHLG&th=1
+
+sample flipkcart product url:-->
+https://www.flipkart.com/zebronics-zeb-k24-slim-design-retractable-stand-1-3-meter-textured-cable-chiclet-keys-wired-usb-desktop-keyboard/p/itmdc01a13c33ed6?pid=ACCGFZZ3KHJ3NKHZ&lid=LSTACCGFZZ3KHJ3NKHZEDIYDR&marketplace=FLIPKART&store=6bo%2Fai3%2F3oe&srno=b_1_10&otracker=browse&fm=organic&iid=9c3ed69b-30a5-4f1a-99f5-ced4ec23ad4b.ACCGFZZ3KHJ3NKHZ.SEARCH&ppt=browse&ppn=browse&ssid=iy5664slr40000001703909408393
+https://www.flipkart.com/samsung-galaxy-s21-fe-5g-snapdragon-888-navy-128-gb/p/itmcb8fc8eb2e82b?pid=MOBGTKQG8T9ZHJMM&lid=LSTMOBGTKQG8T9ZHJMMA4D1AC&marketplace=FLIPKART&fm=neo%2Fmerchandising&iid=M_4f2c4007-a073-43c7-8fd6-7e8535d9ce19_1_1BUWY8OBA8L9_MC.MOBGTKQG8T9ZHJMM&ppt=browse&ppn=browse&otracker=clp_pmu_v2_Latest%2BSamsung%2Bmobiles%2B_2_1.productCard.PMU_V2_Samsung%2BGalaxy%2BS21%2BFE%2B5G%2Bwith%2BSnapdragon%2B888%2B%2528Navy%252C%2B128%2BGB%2529_samsung-mobile-store_MOBGTKQG8T9ZHJMM_neo%2Fmerchandising_1&otracker1=clp_pmu_v2_PINNED_neo%2Fmerchandising_Latest%2BSamsung%2Bmobiles%2B_LIST_productCard_cc_2_NA_view-all&cid=MOBGTKQG8T9ZHJMM
+
+ngrok link:-->
+ngrok http --domain=carefully-flying-lioness.ngrok-free.app 5000
+https://carefully-flying-lioness.ngrok-free.app/scrape?url=
+
+https://relaxing-safely-leech.ngrok-free.app/scrape?url=
+
+
+
+https://relaxing-safely-leech.ngrok-free.app/smss_product?url=SMSSPRODUCT
